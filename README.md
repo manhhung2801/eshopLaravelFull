@@ -14,3 +14,8 @@
 <!-- 
 # composer require laravel/ui
 # php artisan ui bootstrap --auth -->
+
+
+# https://www.itsolutionstuff.com/post/how-to-create-custom-middleware-in-laravelexample.html#google_vignette
+# channel
+# https://www.youtube.com/watch?v=Fz0pTzHptGE&list=PL_99hMDlL4d3-n63bsNaaDRnTZdCOvU6q
